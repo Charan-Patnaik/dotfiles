@@ -18,7 +18,7 @@ Personal dotfiles for a Windows + WSL2 Ubuntu development setup.
 Install WezTerm on Windows (winget or installer).
 
 ### Install Nerd Font
-Install **MesloLGS Nerd Font Mono** on Windows (required for p10k icons in WezTerm).
+Install **GoMono Nerd Font** on Windows (required for p10k icons in WezTerm).
 
 ### Link WezTerm config
 Run PowerShell (preferably as Admin) and execute:
